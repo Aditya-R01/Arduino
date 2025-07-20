@@ -44,6 +44,8 @@ This project demonstrates how to use an **HC-SR04 ultrasonic sensor** and a **se
 3. 🖥️ Open the Serial Monitor (**9600 baud**) to view the readings.
 4. Optionally, visualize results in Processing or another software.
 
+## Use Processing software for Sonar plot.
+
 ## 📄 Arduino Code
 
 View the full code in [Sonar.ino](Sonar.ino).
